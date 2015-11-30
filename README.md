@@ -4,6 +4,7 @@
 - 絵があってたのしい。
 ![sss](https://codecombat.com/images/pages/about/coco_comic.jpg)
 - 考える要素はあるかも。
+-![aaa](http://rescola.com.br/wp1//wp-content/uploads/2014/01/codecombat02.jpg)
 - ガイドがついていて初心者でもプログラミングできる。
 - 失敗してもすぐリトライできる。
 - ゲーム性もあってあきにくい？
