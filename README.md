@@ -2,7 +2,7 @@
 ---
 
 - 絵があってたのしい。
--![sss](https://codecombat.com/images/pages/about/coco_comic.jpg)
+![sss](https://codecombat.com/images/pages/about/coco_comic.jpg)
 - 考える要素はあるかも。
 - ガイドがついていて初心者でもプログラミングできる。
 - 失敗してもすぐリトライできる。
